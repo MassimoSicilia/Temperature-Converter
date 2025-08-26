@@ -18,6 +18,5 @@ I created this project as practice while learning the basics of web development.
 - **CSS3** for styling
 - **JavaScript (ES6)** for logic
 
----
 
-## 📂 Project Structure
+
